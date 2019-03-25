@@ -207,12 +207,23 @@ footer {
         max-width: 140px;
         margin: 0 auto;
     }
-}
+
 .top-content .text-content {
     max-width: 800px;
     display:flex; 
     justify-content: center;
 
+
+}
+.text-content{
+    max-width: 800px;
+    display: flex; 
+    justify-content: center;
+}
+
+section.cta {
+    display: none;
+}
 
 }
 
